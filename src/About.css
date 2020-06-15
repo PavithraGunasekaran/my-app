@@ -1,0 +1,96 @@
+.about {
+
+   
+
+  text-align: center; 
+
+    align-items:center;
+
+  
+
+    color: rgb(138, 136, 136);
+
+  }
+
+ 
+
+  
+
+  /* Increase the font size of the heading */
+
+  
+
+ 
+
+  .about p {
+
+    font-size : 20px;
+
+    color: rgb(189, 185, 185);
+
+   
+
+  }
+
+ 
+
+  .about h1 {
+
+    font-size : 25px;
+
+    font-family: sans-serif;
+
+    color: rgb(255, 253, 253);
+
+  }
+
+ 
+
+
+ 
+
+/*h1::after {
+
+    content: '';
+
+    border-bottom: 3px solid #ccc7c6;
+
+    display: block;
+
+    position: absolute;
+
+    bottom: 0;
+
+    left: 0;
+
+    width: 80px;
+
+     border-radius:4px;
+
+  }
+
+ 
+
+ 
+
+  /*h1:after {
+
+    content:'';
+
+    display:block;
+
+    border:2px solid #d0d0d0;
+
+    width : 80px;
+
+    border-radius:4px;
+
+    bottom : 70;
+
+    left:560;
+
+    position : absolute;
+
+  
+
+}*/

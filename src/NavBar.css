@@ -1,0 +1,209 @@
+/*
+
+.navbar {
+
+    overflow: hidden;
+
+    background: #0b63aa;
+
+    position: sticky;
+
+    position: -webkit-sticky;
+
+    top: 0;
+
+  }*/
+
+ 
+
+  /*Style the navigation bar links */
+
+  .navbar button {
+
+    float: left;
+
+    display: block;
+
+    background: #0b63aa;
+
+    text-align: center;
+
+    padding: 14px 20px;
+
+   
+
+  }
+
+ 
+
+  
+
+  /* Right-aligned link */
+
+  .navbar a.right {
+
+    float: right;
+
+  }
+
+ 
+
+  /* Change color on hover*/
+
+  .navbar li:hover {
+
+ 
+
+    color: rgb(252, 252, 252);
+
+  }
+
+ 
+
+  /* Active/current link */
+
+  .navbar button.active {
+
+    background-color: rgb(116, 29, 29);
+
+    color: white;
+
+  }
+
+ 
+
+  button{
+
+      z-index:9999;
+
+  }
+
+ 
+
+  .navbar {
+
+               display: table;   /* Allow the centering to work */
+
+               background-color: #27292b;
+
+}
+
+a:hover {
+
+    color: rgb(250, 247, 246);
+
+}
+
+ 
+
+a{
+
+    text-decoration: none;
+
+}
+
+ 
+
+ul#horizontal-tabs {
+
+               min-width: 1290px;
+
+               list-style: none;
+
+    padding-top: 0px;
+
+    padding-left: 0px;
+
+  
+
+   
+
+ 
+
+}
+
+               ul#horizontal-tabs li ,a {
+
+               display: inline;
+
+    font-size: 20px;
+
+    font-weight: 400;
+
+    line-height: 1.5;
+
+    color: #dae9e5ab;
+
+    text-align: left;
+
+    padding : 14px 15px;
+
+   
+
+    }
+
+   
+
+    #homebtn {
+
+      
+
+        margin-left : 500px;
+
+    }
+
+ 
+
+ 
+
+    @media (min-width: 992px) {
+
+        #mainNavBar:scrolled {
+
+            box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.15);
+
+            background-color: #fff;
+
+        }
+
+    }
+
+ 
+
+    .navbar {
+
+        position: -webkit-sticky;
+
+        position: sticky;
+
+        top: 0;
+
+        background-color: #27292b;
+
+       
+
+ 
+
+ 
+
+ 
+
+        color: #fff;
+
+        padding: 30px;
+
+        font-size: 20px;
+
+      }
+
+ 
+
+      .home-icon{
+
+        align-self : flex-end;
+
+      }
+
+ 
+
+ 

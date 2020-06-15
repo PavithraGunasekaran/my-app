@@ -1,0 +1,101 @@
+.header {
+
+    padding: 80px;
+
+    text-align: center;
+
+    align-items : center;
+
+  
+
+    color: white;
+
+  }
+
+ 
+
+  /* Increase the font size of the heading */
+
+  .header h1 {
+
+    font-size: 2.25rem;
+
+    font-family: Montserrat,sans-serif;
+
+    font-weight:  lighter;
+
+  }
+
+ 
+
+  .header-props{
+
+    align-self : baseline;
+
+  }
+
+ 
+
+  button:hover {
+
+    font-weight: bold;
+
+    color : #ffffff;
+
+    background-color: rgba(58, 55, 55, 0.801);
+
+  
+
+}
+
+ 
+
+ 
+
+   button {
+
+    background-color: rgba(158, 154, 154, 0.164);
+
+    border: none;
+
+    color: rgba(243, 240, 240, 0.575);
+
+    padding: 20px 30px;
+
+    text-align: center;
+
+    text-decoration: none;
+
+    display: inline-block;
+
+    margin: 4px 2px;
+
+    cursor: pointer;
+
+    border-radius: 30px;
+
+    font-size: 18px;
+
+    font-weight: bold;
+
+  }
+
+ 
+
+  .header p {
+
+    font-size : 30px;
+
+  }
+
+ 
+
+  .my-linkedin-icon{
+
+    color: azure;
+
+  }
+
+ 
+
+ 
